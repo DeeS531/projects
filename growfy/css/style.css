@@ -28,22 +28,32 @@
 
 .icon-instagramm:before {
   content: "\e904";
+  position: relative;
+	z-index: 5;
 }
 
 .icon-twitter:before {
   content: "\e909";
+  position: relative;
+	z-index: 5;
 }
 
 .icon-facebook:before {
   content: "\ea90";
+  position: relative;
+	z-index: 5;
 }
 
 .icon-youtube:before {
   content: "\ea9d";
+  position: relative;
+	z-index: 5;
 }
 
 .icon-linkedin2:before {
   content: "\eaca";
+  position: relative;
+	z-index: 5;
 }
 
 [class*=_icon-]:before {
