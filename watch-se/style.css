@@ -461,6 +461,7 @@ main {
 .footer {
 }
 .footer__container {
+	padding: 0px 0px;
 }
 .footer_image {
 }
